@@ -1,0 +1,15 @@
+current directory: /Users/yoshinorinakagawa/workspace/rails/attendances/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+/Users/yoshinorinakagawa/.anyenv/envs/rbenv/versions/2.6.6/bin/ruby -I /Users/yoshinorinakagawa/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210804-8815-wst5yj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yoshinorinakagawa/workspace/rails/attendances/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/yoshinorinakagawa/workspace/rails/attendances/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yoshinorinakagawa/workspace/rails/attendances/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210804-8815-o8qc76/bootsnap
